@@ -6,7 +6,7 @@ import psycopg2
 
 # Verbindungsinformationen
 connection_info = {
-    "host": "dpg-conqu0q1hbls73foucc0-a.frankfurt-postgres.render.com",
+    "host": "dpg-cqj7b1ij1k6c739o2gvg-a",
     "port": 5432,
     "database": "feedbacks_db_i3xb",
     "user": "solai",
