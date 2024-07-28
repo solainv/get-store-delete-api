@@ -5,13 +5,7 @@ import psycopg2
 
 
 # Verbindungsinformationen
-connection_info = {
-    "host": "dpg-cqj7b1ij1k6c739o2gvg-a",
-    "port": 5432,
-    "database": "feedbacks_db_i3xb",
-    "user": "solai",
-    "password": "GQNzIM7spKw6vo7l1KsAGP3SxkndnPa1"
-}
+connection_info  = "postgresql://solai:GQNzIM7spKw6vo7l1KsAGP3SxkndnPa1@dpg-cqj7b1ij1k6c739o2gvg-a.frankfurt-postgres.render.com/feedbacks_db_i3xb"
 
 
 # FastAPI-Instanz erstellen
