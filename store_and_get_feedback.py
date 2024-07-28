@@ -8,9 +8,9 @@ import psycopg2
 connection_info = {
     "host": "dpg-conqu0q1hbls73foucc0-a.frankfurt-postgres.render.com",
     "port": 5432,
-    "database": "feedbacks_db",
+    "database": "feedbacks_db_i3xb",
     "user": "solai",
-    "password": "X2BiQu43ILVoYq4P61fwP8fqBbHUdAx7"
+    "password": "GQNzIM7spKw6vo7l1KsAGP3SxkndnPa1"
 }
 
 
